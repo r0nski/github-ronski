@@ -6,3 +6,5 @@
 ##Deployment
 
 ##Copyright
+
+##AUtomatic merging of branches 
