@@ -11,3 +11,5 @@ for testing using difftool
 
 #simple stadh example
 tobe continued
+
+#stashing untracked files and using pop
