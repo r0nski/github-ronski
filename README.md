@@ -14,3 +14,5 @@ from remote to local
 
 
 #for stash sample 
+
+#for stashing untracked files and using pop.
