@@ -8,3 +8,5 @@
 ##Copyright
 
 ##AUtomatic merging of branches 
+
+from remote to local 
