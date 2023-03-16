@@ -13,3 +13,5 @@ for testing using difftool
 tobe continued
 
 #stashing untracked files and using pop
+
+#comparing tags
