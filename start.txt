@@ -7,3 +7,7 @@ for testing using difftool
  my another branch sa,mple
  
  from github to local master, sample only!
+
+
+#simple stadh example
+tobe continued
