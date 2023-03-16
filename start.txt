@@ -13,5 +13,8 @@ for testing using difftool
 tobe continued
 
 #stashing untracked files and using pop
+<<<<<<< HEAD
 
 #comparing tags
+=======
+>>>>>>> b71d183cfd7ce3a8601758099d91cd5a1a9f429b
